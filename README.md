@@ -4,6 +4,9 @@ Unlevered DCF for a fictional CPG company (**Northline Consumer Products**): fre
 
 **Open this file:** [`Northline_DCF_Valuation_Model.xlsx`](Northline_DCF_Valuation_Model.xlsx)
 
+![dcf-valuation-model preview](dashboard-preview.png)
+
+
 ## Business question
 
 Is this capital ask worth more than it costs — and how fragile is that answer if WACC is 100 bps higher or terminal growth is 50 bps lower?
@@ -42,4 +45,4 @@ Yellow cells with blue font are inputs. Black font is formulas.
 
 Excel formulas only — no VBA, no live prices, no employer data.
 
-[Profile](https://github.com/saisiri-bandaru) · [Portfolio](https://saisiri-bandaru.github.io) · [LinkedIn](https://www.linkedin.com/in/bandarusaisiri) · [bandarusaisiri1207@gmail.com](mailto:bandarusaisiri1207@gmail.com)
+[Profile](https://github.com/saisiri1207) · [Portfolio](https://saisiri1207.github.io) · [LinkedIn](https://www.linkedin.com/in/saisiri1207) · [bandarusaisiri1207@gmail.com](mailto:bandarusaisiri1207@gmail.com)
